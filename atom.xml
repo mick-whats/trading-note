@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Trading Note</title>
   <subtitle>by Mick</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/trading-note/atom.xml" rel="self"/>
   
   <link href="https://mick-whats.github.io/trading-note/"/>
   <updated>2017-06-16T10:10:29.000Z</updated>
